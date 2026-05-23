@@ -80,6 +80,7 @@
 
 免费额度与注册说明： 注册送2.5刀 每日签到随机0.1刀以上 注册限制邮箱
 
+
 ### 可萌中转站
 
 链接： [可萌中转站](https://api456.me/register?aff=H0IO)
@@ -230,3 +231,10 @@
 
 免费额度与注册说明： 注册送10元余额，填写问券（注册后弹出的企业微信好友，添加后填写问券）得50元，实名认证得40元（非必须） 。
 
+### Tokeness (来自 https://github.com/l1i1 投稿)
+
+链接： [Tokeness](https://tokeness.cn/sign-up?aff=KiJg)
+
+高级模型: GPT5.5，GPT5.4，Opus4.7，Opus4.6，Sonnet4.6，Gemini 3.1 Pro，DeepSeek-V4-Pro，Qwen 3.7 Max，Kimi K2.6，GLM5.1
+
+免费额度与注册说明： AFF注册送5元，可用于所有模型，0.1倍率，每日签到随机0.3元以上，注册限制主流邮箱。
